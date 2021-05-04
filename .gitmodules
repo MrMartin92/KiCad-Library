@@ -1,12 +1,12 @@
-[submodule "KiCad-Library-Symbols"]
-	path = KiCad-Library-Symbols
-	url = git@github.com:MrMartin92/KiCad-Library-Symbols
-[submodule "KiCad-Library-Footprints"]
-	path = KiCad-Library-Footprints
-	url = git@github.com:MrMartin92/KiCad-Library-Footprints
-[submodule "KiCad-Library-Datasheets"]
-	path = KiCad-Library-Datasheets
-	url = git@github.com:MrMartin92/KiCad-Library-Datasheets
-[submodule "KiCad-Library-Models"]
-	path = KiCad-Library-Models
+[submodule "3D-Models"]
+	path = 3D-Models
 	url = git@github.com:MrMartin92/KiCad-Library-Models
+[submodule "Symbols"]
+	path = Symbols
+	url = git@github.com:MrMartin92/KiCad-Library-Symbols
+[submodule "Footprints"]
+	path = Footprints
+	url = git@github.com:MrMartin92/KiCad-Library-Footprints
+[submodule "Datasheets"]
+	path = Datasheets
+	url = git@github.com:MrMartin92/KiCad-Library-Datasheets

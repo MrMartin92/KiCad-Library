@@ -10,3 +10,6 @@
 [submodule "Datasheets"]
 	path = Datasheets
 	url = git@github.com:MrMartin92/KiCad-Library-Datasheets
+[submodule "Templates"]
+	path = Templates
+	url = git@github.com:MrMartin92/KiCad-Library-Templates
